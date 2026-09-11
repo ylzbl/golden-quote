@@ -59,7 +59,7 @@ Golden Quote 是一个**纯前端的金句海报生成器**，输入一段文字
 
 ### 部署
 - **本地使用**：直接双击 `index.html`
-- **GitHub Pages**：推送到仓库后启用 Pages，访问 `https://<user>.github.io/golden-quote/`
+- **GitHub Pages**：已启用 Pages，访问 https://ylzbl.github.io/golden-quote/
 - **Cloudflare Pages**：直接连接 GitHub 仓库即可部署
 
 ## 文件结构
